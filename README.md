@@ -1,4 +1,4 @@
 cdl-c1
 ======
 
-first repository
+first repository -c1
